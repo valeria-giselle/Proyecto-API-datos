@@ -38,6 +38,10 @@ This endpoint can be accessed directly from a browser or tools such as Postman.
 - Returns data in JSON format
 - Allows validating the API functionality without local execution
 
+## 💡 Use Case
+This API can be used as a data source for exploratory analysis, dashboards,
+or integration with other applications.
+
 ## 📌 Notes
 This project demonstrates API consumption and deployment in a production
 environment using Render.
