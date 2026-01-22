@@ -54,5 +54,4 @@ This API can be used as a data source for exploratory analysis, dashboards,
 or integration with other applications.
 
 ## 📌 Notes
-This project demonstrates API consumption and deployment in a production
-environment using Render.
+This project demonstrates the use of APIs as a data source and their deployment in a production environment using Render, thus reinforcing key technical skills for working with data in real production environments.
