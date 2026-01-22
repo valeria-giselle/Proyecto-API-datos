@@ -1,8 +1,7 @@
-# 📡 Sprint 7 Project – API Data Consumption
+# 📡 Project – API Data Consumption
 
 ## 📌 Description
-This project demonstrates how to consume data from an external API
-as part of Sprint 7 of the Data Analyst bootcamp.
+This project demonstrates how to consume data from an external API.
 
 The main goal is to connect to an API, retrieve data, and prepare it
 for exploratory analysis using Python.
