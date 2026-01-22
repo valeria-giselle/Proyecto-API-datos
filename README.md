@@ -1,13 +1,23 @@
-# 📡 Proyecto – Consumo de API
+# 📡 Proyecto API de Datos
 
 ## 📌 Descripción
-Este proyecto demuestra el uso de una API para la obtención de datos externos.
+El objetivo de este proyecto es practicar tareas habituales de la ingeniería
+de software aplicadas al trabajo con datos, con el fin de fortalecer habilidades
+técnicas y complementar el perfil de Data Analyst.
 
-El objetivo principal es aprender a conectarse a una API, recuperar datos
-y prepararlos para su análisis utilizando Python.
+El proyecto se enfoca en la creación de una aplicación web que expone datos a
+través de una API, así como en la configuración y gestión de entornos virtuales
+de Python y el despliegue del servicio en un entorno productivo.
+
+Aunque se utiliza un conjunto de datos de anuncios de venta de coches, el
+énfasis del proyecto no está en el análisis de los datos, sino en el desarrollo
+y despliegue de la API como fuente de datos accesible.
 
 ## 🧠 Objetivo
-La aplicación web de vehículos permite a los usuarios explorar datos sobre vehículos en venta en Estados Unidos de manera interactiva. Ofrece funcionalidades como la generación de histogramas de precios y gráficos de dispersión que muestran la relación entre precio y kilometraje. Los usuarios pueden visualizar patrones y tendencias en los datos, con opciones interactivas para descubrir detalles adicionales. Además, incluye herramientas intuitivas, como un botón que habilita acciones específicas, proporcionando una experiencia dinámica y fácil de usar. Es ideal para el análisis de datos y la toma de decisiones informadas.
+- Practicar el consumo y exposición de datos mediante una API
+- Desarrollar una aplicación web sencilla con Python
+- Gestionar dependencias y entornos virtuales
+- Desplegar una API funcional en producción
 
 ## 🗂️ Estructura del repositorio
 - `api/` → Script principal para el consumo de la API
@@ -20,7 +30,8 @@ La aplicación web de vehículos permite a los usuarios explorar datos sobre veh
 ## ⚙️ Herramientas utilizadas
 - Python
 - Requests
-- Pandas
+- VS Code
+- Render (despliegue)
 
 ## 🌐 API desplegada
 
@@ -45,6 +56,7 @@ dashboards o integraciones con otras aplicaciones.
 ## 📌 Notas
 Este proyecto demuestra el uso de APIs como fuente de datos y su despliegue
 en un entorno productivo utilizando Render.
+
 
 
 
