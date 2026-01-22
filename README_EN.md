@@ -32,6 +32,8 @@ The API is deployed and publicly available at the following link:
 
 This endpoint can be accessed directly from a browser or tools such as Postman.
 
+<img width="740" height="686" alt="image" src="https://github.com/user-attachments/assets/93969f83-372e-48ff-ac4b-eb67901254fe" />
+
 ## 📈 What the API Does
 - Exposes an endpoint that retrieves data from an external source
 - Returns data in JSON format
