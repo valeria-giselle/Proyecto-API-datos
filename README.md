@@ -1,8 +1,7 @@
-# 📡 Proyecto Sprint 7 – Consumo de API
+# 📡 Proyecto – Consumo de API
 
 ## 📌 Descripción
-Este proyecto demuestra el uso de una API para la obtención de datos externos
-como parte del Sprint 7 del bootcamp de Data Analyst.
+Este proyecto demuestra el uso de una API para la obtención de datos externos.
 
 El objetivo principal es aprender a conectarse a una API, recuperar datos
 y prepararlos para su análisis utilizando Python.
@@ -42,5 +41,6 @@ o herramientas como Postman.
 ## 📌 Notas
 Este proyecto demuestra el uso de APIs como fuente de datos y su despliegue
 en un entorno productivo utilizando Render.
+
 
 
