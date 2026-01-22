@@ -32,6 +32,8 @@ La API se encuentra desplegada y disponible públicamente en el siguiente enlace
 Este endpoint permite consultar datos directamente desde el navegador
 o herramientas como Postman.
 
+<img width="740" height="686" alt="image" src="https://github.com/user-attachments/assets/5c967d16-bb7a-479d-b86e-5baeb3f7042a" />
+
 ## 📈 Qué hace la API
 - Expone un endpoint que consume datos desde una fuente externa
 - Devuelve la información en formato JSON
@@ -40,4 +42,5 @@ o herramientas como Postman.
 ## 📌 Notas
 Este proyecto demuestra el uso de APIs como fuente de datos y su despliegue
 en un entorno productivo utilizando Render.
+
 
