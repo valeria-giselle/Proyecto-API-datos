@@ -38,9 +38,14 @@ o herramientas como Postman.
 - Devuelve la información en formato JSON
 - Permite validar el funcionamiento de la API sin ejecución local
 
+## 💡 Caso de uso
+Esta API puede utilizarse como fuente de datos para análisis exploratorio,
+dashboards o integraciones con otras aplicaciones.
+
 ## 📌 Notas
 Este proyecto demuestra el uso de APIs como fuente de datos y su despliegue
 en un entorno productivo utilizando Render.
+
 
 
 
