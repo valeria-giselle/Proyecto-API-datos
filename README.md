@@ -55,7 +55,9 @@ dashboards o integraciones con otras aplicaciones.
 
 ## 📌 Notas
 Este proyecto demuestra el uso de APIs como fuente de datos y su despliegue
-en un entorno productivo utilizando Render.
+en un entorno productivo utilizando Render, reforzando asi habilidades técnicas clave para trabajar con datos
+en entornos reales de producción.
+
 
 
 
