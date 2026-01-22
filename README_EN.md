@@ -1,13 +1,23 @@
-# 📡 Project – API Data Consumption
+# 📡 Data API Project
 
 ## 📌 Description
-This project demonstrates how to consume data from an external API.
+The goal of this project is to practice common software engineering tasks
+applied to data-related workflows, in order to strengthen technical skills
+and enhance a Data Analyst profile.
 
-The main goal is to connect to an API, retrieve data, and prepare it
-for exploratory analysis using Python.
+The project focuses on building a web application that exposes data through
+an API, as well as setting up and managing Python virtual environments and
+deploying the service to a production environment.
+
+Although a dataset of car sales advertisements is used, the main focus of
+the project is not data analysis, but the development and deployment of the
+API as an accessible data source.
 
 ## 🧠 Objective
-The vehicle web application allows users to interactively explore data on vehicles for sale in the United States. It offers features such as price histogram generation and scatter plots that show the relationship between price and mileage. Users can visualize patterns and trends in the data, with interactive options to uncover additional details. Furthermore, it includes intuitive tools, such as a button that enables specific actions, providing a dynamic and user-friendly experience. It is ideal for data analysis and informed decision-making.
+- Practice data exposure through an API
+- Build a simple web application using Python
+- Manage dependencies and virtual environments
+- Deploy a functional API to a production environment
 
 ## 🗂️ Repository Structure
 
@@ -21,7 +31,8 @@ The vehicle web application allows users to interactively explore data on vehicl
 ## ⚙️ Tools Used
 - Python
 - Requests
-- Pandas
+- VS Code
+- Render (deployment)
 
 ## 🌐 Deployed API
 
